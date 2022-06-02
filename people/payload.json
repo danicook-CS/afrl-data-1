@@ -26,5 +26,12 @@
       "title": "Ph.D. student",
       "headshot": "https://raw.githubusercontent.com/18r441m/afrl/main/people/images/ioannis.jpeg",
       "link": "http://joshi-bharat.github.io/"
+    },
+    {
+      "name": "Alberto Quattrini Li",
+      "role": "Alumni",
+      "title": "Postdoc/Research Assistant",
+      "headshot": "https://raw.githubusercontent.com/18r441m/afrl/main/people/images/aql.jpeg",
+      "link": "https://rlab.cs.dartmouth.edu/albertoq/"
     }
 ]
