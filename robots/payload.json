@@ -2,8 +2,8 @@
   {
     "category": "Underwater",
     "name": "Aqua",
-    "thumbnail": "",
-    "link": ""
+    "thumbnail": "https://raw.githubusercontent.com/18r441m/afrl/main/robots/aqua/thumbnail.jpeg",
+    "link": "https://raw.githubusercontent.com/18r441m/afrl/main/robots/aqua/payload.md"
   },
   {
     "category": "Surface Robots",
