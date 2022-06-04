@@ -6,25 +6,25 @@
     "link": "https://raw.githubusercontent.com/18r441m/afrl/main/robots/aqua/payload.md"
   },
   {
-    "category": "Surface Robots",
+    "category": "Surface",
     "name": "Jetyak",
     "thumbnail": "",
     "link": ""
   },
   {
-    "category": "Ground Robots",
+    "category": "Ground",
     "name": "TurtleBot 2",
     "thumbnail": "",
     "link": ""
   },
   {
-    "category": "Ground Robots",
+    "category": "Ground",
     "name": "Husky A200",
     "thumbnail": "",
     "link": ""
   },
   {
-    "category": "Ground Robots",
+    "category": "Ground",
     "name": "Kuka Youbot",
     "thumbnail": "",
     "link": ""
