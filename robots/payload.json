@@ -1,1 +1,32 @@
-
+[
+  {
+    "category": "Underwater",
+    "name": "Aqua",
+    "thumbnail": "",
+    "link": ""
+  },
+  {
+    "category": "Surface Robots",
+    "name": "Jetyak",
+    "thumbnail": "",
+    "link": ""
+  },
+  {
+    "category": "Ground Robots",
+    "name": "TurtleBot 2",
+    "thumbnail": "",
+    "link": ""
+  },
+  {
+    "category": "Ground Robots",
+    "name": "Husky A200",
+    "thumbnail": "",
+    "link": ""
+  },
+  {
+    "category": "Ground Robots",
+    "name": "Kuka Youbot",
+    "thumbnail": "",
+    "link": ""
+  },
+]
