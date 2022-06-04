@@ -8,8 +8,8 @@
   {
     "category": "Surface",
     "name": "Jetyak",
-    "thumbnail": "",
-    "link": ""
+    "thumbnail": "https://raw.githubusercontent.com/18r441m/afrl/main/robots/jetyak/thumbnail.jpeg",
+    "link": "https://raw.githubusercontent.com/18r441m/afrl/main/robots/jetyak/payload.md"
   },
   {
     "category": "Ground",
