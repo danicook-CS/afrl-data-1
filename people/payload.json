@@ -238,17 +238,17 @@
         "link": ""
     },
     {
+      "name": "Ross Vicario",
+      "role": "Undergrad",
+      "title": "B.Sc. student",
+      "headshot": "https://raw.githubusercontent.com/18r441m/afrl/main/people/images/ross.jpeg",
+      "link": ""
+    },
+    {
       "name": "Muhammad Tukhtasunov",
       "role": "Undergrad",
       "title": "B.Sc. student",
       "headshot": "",
       "link": ""
-    },
-    {
-      "name": "Ross Vicario",
-      "role": "Undergrad",
-      "title": "B.Sc. student",
-      "headshot": "",
-      "link": ""
-    }
+    } 
 ]
