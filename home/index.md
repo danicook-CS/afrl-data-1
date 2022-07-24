@@ -1,11 +1,1 @@
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-<div class="green">
-    Markdown css styles
-</div>
+The goal of the Autonomous Field Robotics Laboratory (AFRL) is to research mobile robotics and in particular cooperating intelligent agents with application to multi-robot cooperative localization, mapping, exploration and coverage.
