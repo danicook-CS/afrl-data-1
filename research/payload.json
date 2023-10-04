@@ -1,13 +1,14 @@
 [
-  "Underwater" : 
+  "Underwater" : [
     {
-      "title": "title of reseach",
-      "thumbnail" "link to image",
+      "title": "title of research",
+      "thumbnail": "link to image",
       "link": "link to markdown"
     },
     {
-      "title": "title of reseach",
-      "thumbnail" "link to image",
+      "title": "title of research",
+      "thumbnail": "link to image",
       "link": "link to markdown"
     }
+  ]
 ]
