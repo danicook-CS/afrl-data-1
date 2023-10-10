@@ -1,14 +1,53 @@
 [
-  "Underwater" : [
+  "Current" , [
     {
-      "title": "title of research",
-      "thumbnail": "link to image",
-      "link": "link to markdown"
+      "title": "Vision Based Estimation",
+      "thumbnail": "https://afrl.cse.sc.edu/afrl/research/standard/VEstComp/images/aqua_out.jpg.thumbnail.jpeg",
+      "link": "./research/vision_based_estimation"
     },
     {
-      "title": "title of research",
-      "thumbnail": "link to image",
-      "link": "link to markdown"
+      "title": "Dynamically Efficient Kinematics for Hyper-Redundant Manipulators",
+      "thumbnail": "https://afrl.cse.sc.edu/afrl/research/marios/images/hyp3.png",
+      "link": "./research/efficient_kinematics"
     }
-  ]
+  ],
+  "Aqua" , [
+      {
+        "title": "Shipwreck Mapping",
+        "thumbnail": "https://afrl.cse.sc.edu/afrl/research/marios/images/ship2.png",
+        "link": "./research/shipwreck_mapping"
+      },
+      {
+        "title": "Underwater Cave Mapping",
+        "thumbnail": "https://afrl.cse.sc.edu/afrl/research/marios/images/hyp3.png",
+        "link": "./research/underwater_cave_mapping"
+      },
+      {
+          "title": "Localizing AUVS to Sand Ripples",
+          "thumbnail": "https://afrl.cse.sc.edu/afrl/research/sand-auvs/sandrip1.jpg",
+          "link": "./research/localizing_auvs"
+        }
+    ],
+    "Ground" , [
+      {
+        "title": "Localization with Dynamic Obstacles",
+        "thumbnail": "https://afrl.cse.sc.edu/afrl/research/marios/images/dyn_loc2.png",
+        "link": "./research/localization_dynamic_obstacles"
+      }
+    ],
+    "Aerial" , [
+      {
+        "title": "Birds Eye View",
+        "thumbnail": "https://afrl.cse.sc.edu/afrl/research/birdseyeview/birdseyeview1.jpg",
+        "link": "./research/birds_eye_views"
+      }
+    ],
+    "Hardware" , [
+      {
+        "title": "Autonomous Surface Vehicles",
+        "thumbnail": "https://afrl.cse.sc.edu/afrl/robots/ASV/Amphenol7FM.png",
+        "link": "./research/autonomous_mokai"
+      }
+    ]
+
 ]
