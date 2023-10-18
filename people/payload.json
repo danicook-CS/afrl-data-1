@@ -1,254 +1,50 @@
 [
     {
-      "name": "Ioannis Rekleitis",
-      "role": "Faculty",
-      "title": "Associate Professor",
-      "headshot": "https://raw.githubusercontent.com/18r441m/afrl-data/main/people/images/Rekleitis.jpg",
-      "link": "https://cse.sc.edu/~yiannisr/"
+        "Faculty": [
+          {
+            "name": "Ioannis Rekleitis",
+            "imageURL": "https://sc.edu/study/colleges_schools/engineering_and_computing/images/headshots/rekleito_255.jpg",
+            "info": "Associate Professor",
+            "website": "https://www.cse.sc.edu/~yiannisr/",
+            "linkedIn": "https://www.linkedin.com/in/ioannis-rekleitis-81867b3/",
+            "googleScholar": "https://scholar.google.com/citations?user=KjfpioYAAAAJ&hl=en"
+          }
+        ]
     },
     {
-      "name": "Md Modasshir",
-      "role": "Grad",
-      "title": "Ph.D. student",
-      "headshot": "https://raw.githubusercontent.com/18r441m/afrl-data/main/people/images/Modasshir.jpg",
-      "link": "https://cse.sc.edu/~modasshm/home/"
-    },
-    {
-      "name": "Bharat Joshid",
-      "role": "Grad",
-      "title": "Ph.D. student",
-      "headshot": "https://raw.githubusercontent.com/18r441m/afrl-data/main/people/images/Joshi.jpg",
-      "link": "http://joshi-bharat.github.io/"
-    },
-    {
-      "name": "Ibrahim Salman",
-      "role": "Grad",
-      "title": "Ph.D. student",
-      "headshot": "",
-      "link": "https://ibrahimsalman.com/"
-    },
-    {
-      "name": "Marios Xanthidis",
-      "role": "Alumni",
-      "title": "Ph.D. student",
-      "headshot": "",
-      "link": "https://sites.google.com/view/mariosx"
-    },
-    {
-      "name": "Nare Karapetyan",
-      "role": "Alumni",
-      "title": "Ph.D. student",
-      "headshot": "https://raw.githubusercontent.com/18r441m/afrl-data/main/people/images/Karapetyan.jpeg",
-      "link": "https://sites.google.com/view/nkarapetyan"
-    },
-    {
-      "name": "Sharmin Rahman",
-      "role": "Alumni",
-      "title": "Ph.D. student",
-      "headshot": "",
-      "link": "https://sites.google.com/view/sharminrahman/"
-    },
-    {
-      "name": "Jason Moulton",
-      "role": "Alumni",
-      "title": "Ph.D. student",
-      "headshot": "",
-      "link": ""
-    },
-    {
-      "name": "Alberto Quattrini Li",
-      "role": "Alumni",
-      "title": "Postdoc",
-      "headshot": "",
-      "link": "https://rlab.cs.dartmouth.edu/albertoq/"
-    },
-    {
-        "name": "Brennan Cain",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": "https://www.brennancain.com/"
-    },
-    {
-      "name": "Hunter Damron",
-      "role": "Alumni",
-      "title": "B.Sc. student",
-      "headshot": "https://raw.githubusercontent.com/18r441m/afrl-data/main/people/images/Damron.jpeg",
-      "link": "https://github.com/hdamron17"
-    },
-    {
-      "name": "Dalton Bickford",
-      "role": "Alumni",
-      "title": "B.Sc. student",
-      "headshot": "",
-      "link": ""
-    },
-    {
-        "name": "Chris McKinney",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "David Schmitt",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Andrew DePriest",
-        "role": "Alumni",
-        "title": "M.Eng. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "George Sophocleus",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Daniel Boydstun",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Matt Farich",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "John McCarthy",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "John McCarthy",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Silas Rubinson",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Akanksha Singh",
-        "role": "Alumni",
-        "title": "M.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Apoorv Jagtap",
-        "role": "Alumni",
-        "title": "M.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Sean Doherty",
-        "role": "Alumni",
-        "title": "M.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Kelly Benson",
-        "role": "Alumni",
-        "title": "M.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Shannon Hood",
-        "role": "Alumni",
-        "title": "M.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Nicholas Weidner",
-        "role": "Alumni",
-        "title": "M.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Daniel Madison",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Zack Smith",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Joshua Benton",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Patrick Hamod",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Andrew Rowles",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Dalton Bickford",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-        "name": "Sharone Bukhsbaum",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
-      "name": "Ross Vicario",
-      "role": "Undergrad",
-      "title": "B.Sc. student",
-      "headshot": "https://raw.githubusercontent.com/18r441m/afrl-data/main/people/images/ross.jpeg",
-      "link": ""
-    },
-    {
-      "name": "Muhammad Tukhtasunov",
-      "role": "Undergrad",
-      "title": "B.Sc. student",
-      "headshot": "",
-      "link": ""
-    } 
+        "Graduate Students": [
+          {
+            "name": "Bharat Joshi",
+            "imageURL": "https://joshi-bharat.github.io/assets/img/profile.png",
+            "info": "PhD Candidate",
+            "website": "",
+            "linkedIn": "https://www.linkedin.com/in/bharat-joshi12/",
+            "googleScholar": "https://scholar.google.com/citations?user=TsGzYyoAAAAJ&hl=en"
+          },
+          {
+            "name": "Md Modasshir",
+            "imageURL": "https://media.licdn.com/dms/image/C4E03AQH-9NJzj3uM0w/profile-displayphoto-shrink_400_400/0/1581223842857?e=1701907200&v=beta&t=z5x5HzQ3UbRb3yYu68q8S30VEXT43mTVRMuNXRu-p44",
+            "info": "PhD Student",
+            "website": "",
+            "linkedIn": "https://www.linkedin.com/in/modasshir/",
+            "googleScholar": ""
+          },
+          {
+            "name": "Ibrahim Salman",
+            "imageURL": "",
+            "info": "PhD Student",
+            "website": "https://ibrahimsalman.com/",
+            "linkedIn": "https://www.linkedin.com/in/ijsalman/",
+            "googleScholar": ""
+          },
+          {
+            "name": "Titon Barua",
+            "imageURL": "https://www.titonbarua.com/img/titon_portrait.jpg",
+            "info": "PhD Student",
+            "website": "https://www.titonbarua.com/",
+            "linkedIn": "https://www.linkedin.com/in/titon-barua-052bb617/",
+            "googleScholar": ""
+          }
+        ]
+      }      
 ]
