@@ -1,7 +1,6 @@
 [
   {
-    "id" :"Current",
-    "info" : [
+    "Current":  [
       {
         "title": "Vision Based Estimation",
         "thumbnail": "https://afrl.cse.sc.edu/afrl/research/standard/VEstComp/images/aqua_out.jpg.thumbnail.jpeg",
@@ -15,8 +14,7 @@
     ]
   },
   {
-    "id" :"Aqua",
-    "info" : [
+    "Aqua" : [
       {
         "title": "Shipwreck Mapping",
         "thumbnail": "https://afrl.cse.sc.edu/afrl/research/marios/images/ship2.png",
@@ -35,8 +33,7 @@
     ]
   },
   {
-    "id" :"Ground",
-    "info" : [
+    "Ground": [
       {
         "title": "Localization with Dynamic Obstacles",
         "thumbnail": "https://afrl.cse.sc.edu/afrl/research/marios/images/dyn_loc2.png",
@@ -45,8 +42,7 @@
     ]
   },
   {
-    "id" :"Aerial",
-    "info" : [
+    "Aerial" : [
       {
         "title": "Birds Eye View",
         "thumbnail": "https://afrl.cse.sc.edu/afrl/research/birdseyeview/birdseyeview1.jpg",
@@ -55,8 +51,8 @@
     ]
   },
   {
-    "id" :"Hardware",
-    "info" : [
+    "Hardware" : 
+    [
       {
         "title": "Autonomous Surface Vehicles",
         "thumbnail": "https://afrl.cse.sc.edu/afrl/robots/ASV/Amphenol7FM.png",
