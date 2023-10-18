@@ -1,17 +1,22 @@
 [
-  "Current" , [
-    {
-      "title": "Vision Based Estimation",
-      "thumbnail": "https://afrl.cse.sc.edu/afrl/research/standard/VEstComp/images/aqua_out.jpg.thumbnail.jpeg",
-      "link": "/research/vision_based_estimation"
-    },
-    {
-      "title": "Dynamically Efficient Kinematics for Hyper-Redundant Manipulators",
-      "thumbnail": "https://afrl.cse.sc.edu/afrl/research/marios/images/hyp3.png",
-      "link": "/research/efficient_kinematics"
-    }
-  ],
-  "Aqua" , [
+  {
+    "id" :"Current",
+    "info" : [
+      {
+        "title": "Vision Based Estimation",
+        "thumbnail": "https://afrl.cse.sc.edu/afrl/research/standard/VEstComp/images/aqua_out.jpg.thumbnail.jpeg",
+        "link": "/research/vision_based_estimation"
+      },
+      {
+        "title": "Dynamically Efficient Kinematics for Hyper-Redundant Manipulators",
+        "thumbnail": "https://afrl.cse.sc.edu/afrl/research/marios/images/hyp3.png",
+        "link": "/research/efficient_kinematics"
+      }
+    ]
+  },
+  {
+    "id" :"Aqua",
+    "info" : [
       {
         "title": "Shipwreck Mapping",
         "thumbnail": "https://afrl.cse.sc.edu/afrl/research/marios/images/ship2.png",
@@ -26,28 +31,38 @@
           "title": "Localizing AUVS to Sand Ripples",
           "thumbnail": "https://afrl.cse.sc.edu/afrl/research/sand-auvs/sandrip1.jpg",
           "link": "/research/localizing_auvs"
-        }
-    ],
-    "Ground" , [
+      }
+    ]
+  },
+  {
+    "id" :"Ground",
+    "info" : [
       {
         "title": "Localization with Dynamic Obstacles",
         "thumbnail": "https://afrl.cse.sc.edu/afrl/research/marios/images/dyn_loc2.png",
         "link": "/research/localization_dynamic_obstacles"
       }
-    ],
-    "Aerial" , [
+    ]
+  },
+  {
+    "id" :"Aerial",
+    "info" : [
       {
         "title": "Birds Eye View",
         "thumbnail": "https://afrl.cse.sc.edu/afrl/research/birdseyeview/birdseyeview1.jpg",
         "link": "/research/birds_eye_views"
       }
-    ],
-    "Hardware" , [
+    ]
+  },
+  {
+    "id" :"Hardware",
+    "info" : [
       {
         "title": "Autonomous Surface Vehicles",
         "thumbnail": "https://afrl.cse.sc.edu/afrl/robots/ASV/Amphenol7FM.png",
         "link": "/research/autonomous_mokai"
       }
     ]
-
+  }
 ]
+   

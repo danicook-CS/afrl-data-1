@@ -1,0 +1,66 @@
+[
+    "Data" , [
+      {
+        "title": "Datasets",
+        "thumbnail": "",
+        "link": ""
+      }
+    ],
+    "Software" , [
+        {
+          "title": "Software",
+          "thumbnail": "",
+          "link": ""
+        }
+      ],
+      "Media" , [
+        {
+          "title": "Media",
+          "thumbnail": "",
+          "link": ""
+        }
+      ],
+      "Conferences" , [
+        {
+          "title": "Conferences",
+          "thumbnail": "",
+          "link": ""
+        }
+      ],
+      "Collaborators" , [
+        {
+          "title": "Links to our Collaborators",
+          "thumbnail": "",
+          "link": ""
+        }
+      ],
+      "ReadingGroup" , [
+        {
+          "title": "Reading Group",
+          "thumbnail": "",
+          "link": ""
+        }
+      ],
+      "Wiki" , [
+        {
+          "title": "Marine Robotics Wiki",
+          "thumbnail": "",
+          "link": ""
+        }
+      ],
+      "Jetyak" , [
+        {
+          "title": "Jetyak Documentation",
+          "thumbnail": "",
+          "link": ""
+        }
+      ],
+      "StereoRig" , [
+        {
+          "title": "Stereo Rig Documentation",
+          "thumbnail": "",
+          "link": ""
+        }
+      ]
+  
+  ]
