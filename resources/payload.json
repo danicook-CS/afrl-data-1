@@ -4,7 +4,7 @@
       {
         "title": "Datasets",
         "thumbnail": "",
-        "link": ""
+        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/datasets/payload.md"
       }
     ]
   },
@@ -13,7 +13,7 @@
         {
           "title": "Software",
           "thumbnail": "",
-          "link": ""
+          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/software/payload.md"
         }
       ]
     }, 
