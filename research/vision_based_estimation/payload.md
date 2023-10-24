@@ -9,7 +9,7 @@ A. Quattrini Li, A. Coskun, S. M. Doherty, S. Ghasemlou, A. S. Jagtap, M. Modass
 ## Vehicles and Data
 The packages were evaluated from datasets collected by different vehicles. Characteristic images from the different datasets look like:
 
-![Husky outdoor image](/research/vision_based_estimation/husky_outdoor.jpg.thumbnail.jpeg)
+![Husky outdoor image](https://github.com/18r441m/afrl-data/blob/research/research/vision_based_estimation/husky_outdoor.jpg.thumbnail.jpeg?raw=true)
 
 ## References
 Alberto Quattrini Li, Adem Coskun, Sean M. Doherty, Shervin Ghasemlou, Apoorv S. Jagtap, MD Modasshir, Sharmin Rahman, Akanksha Singh, Marios Xanthidis, Jason M. O'Kane, Ioannis Rekleitis. Experimental Comparison of open source Vision based State Estimation Algorithms. In International Symposium of Experimental Robotics (ISER), 2016.

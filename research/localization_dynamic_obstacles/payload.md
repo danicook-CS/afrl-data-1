@@ -2,7 +2,7 @@
 
 [Video Link](https://afrl.cse.sc.edu/afrl/research/marios/images/dyn_loc.mp4)
 
-![Dynamic Obstacles](/research/localization_dynamic_obstacles/dyn_loc2.png)
+![Dynamic Obstacles](https://github.com/18r441m/afrl-data/blob/research/research/localization_dynamic_obstacles/dyn_loc2.png?raw=true)
 
 ## Summary
 The robots should operate in real environments where the uncertainty is a huge problem. Moreover dynamic obstacles, can give a false perspective of the environment to the robot that it may lead to unexpected results. We provided a way of getting the robot localized, using particle filter and a "move to localize" technique that decreases the uncertainty.

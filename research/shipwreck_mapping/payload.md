@@ -1,6 +1,6 @@
 # Shipwreck Mapping
 
-![Shipwreck Photos](/research/shipwreck_mapping/ship1.png)
+![Shipwreck Photos](https://github.com/18r441m/afrl-data/blob/research/research/shipwreck_mapping/ship1.png?raw=true)
 
 ## Summary
 Historical shipwrecks are important for many rea- sons, including historical, touristic, and environmental. Cur- rently, limited efforts for constructing accurate models are performed by divers that need to take measurements manually using a grid and measuring tape, or using handheld sensors. A commercial product, Google Street View1, contains underwater panoramas from select location around the planet including a few shipwrecks, such as the SS Antilla in Aruba and the Yongala at the Great Barrier Reef. However, these panoramas contain no geometric information and thus there are no 3D representations available of these wrecks. This paper provides, first, an evaluation of visual features quality in datasets that span from indoor to underwater ones. Second, by testing some open-source vision-based state estimation packages on different shipwreck datasets, insights on open chal- lenges for shipwrecks mapping are shown. Some good practices for replicable results are also discussed.
