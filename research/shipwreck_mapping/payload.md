@@ -1,6 +1,6 @@
 # Shipwreck Mapping
 
-![Shipwreck Photos](https://github.com/18r441m/afrl-data/blob/research/research/shipwreck_mapping/ship1.png?raw=true)
+![ShipwreckMapping](https://github.com/18r441m/afrl-data/blob/research/research/shipwreck_mapping/ship1.png?raw=true){: style="maxWidth:250px"}
 
 
 
