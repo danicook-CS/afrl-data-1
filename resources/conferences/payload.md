@@ -1,6 +1,6 @@
 # Robotics Conferences
 
-![<img src="https://github.com/18r441m/afrl-data/blob/research/resources/conferences/conferences.png?raw=true" width="190px"/>](https://github.com/18r441m/afrl-data/blob/research/resources/conferences/conferences.png?raw=true width="190px")
+![Conference Image](https://github.com/18r441m/afrl-data/blob/research/resources/conferences/conferences.png?raw=true)
 
 # Computer Vision Conferences
 
