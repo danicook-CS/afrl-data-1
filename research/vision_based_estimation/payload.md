@@ -1,8 +1,5 @@
 # Comparison of Open Source Vision-Based State Estimation Packages
 
-Heading Identifiers:
-### Red text title {#identifier .red}
-
 
 ## Summary
 Abstract. The problem of state estimation using primarily visual data has received a lot of attention in the last decade. Several open source packages have appeared addressing the problem, each supported by im- pressive demonstrations. Applying any of these packages on a new dataset however, has been proven extremely challenging. Suboptimal perfor- mance, loss of localization, and challenges in customization have not produced a clear winner. Several other research groups have presented superb performance without releasing the code, sometimes materializing as commercial products. In this paper, ten of the most promising open source packages are evaluated, by cross validating them on the datasets provided for each package and by testing them on eight different datasets collected over the years in our laboratory. Indoor and outdoor, terrestrial and flying vehicles, in addition to underwater robots, cameras, and buoys were used to collect data. An analysis on the motions required for the different approaches and an evaluation of their performance is presented.
