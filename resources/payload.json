@@ -35,7 +35,7 @@
       "Collaborators" : [
         {
           "title": "Links to our Collaborators",
-          "link": "https://github.com/18r441m/afrl-data/blob/research/resources/jetyak/payload.md"
+          "link": ""
         }
       ]
     },
@@ -60,7 +60,7 @@
       "Jetyak" : [
         {
           "title": "Jetyak Documentation",
-          "link": "https://github.com/18r441m/afrl-data/blob/research/resources/jetyak/payload.md"
+          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/jetyak/payload.md"
         }
       ]
     },
@@ -68,7 +68,7 @@
       "StereoRig" : [
         {
           "title": "Stereo Rig Documentation",
-          "link": "https://github.com/18r441m/afrl-data/blob/research/resources/stereo_rig/payload.md"
+          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/stereo_rig/payload.md"
         }
       ]
     }  

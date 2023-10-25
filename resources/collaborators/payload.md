@@ -2,4 +2,4 @@
 
 [Woodville Karst Plain Project](https://wkpp.org/)
 
-[https://www.halcyon.net/](Halcyon Dive Systems)
+[Halcyon Dive Systems](https://www.halcyon.net/)
