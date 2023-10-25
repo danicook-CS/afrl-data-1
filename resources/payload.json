@@ -27,8 +27,7 @@
       "Conferences" : [
         {
           "title": "Conferences",
-          "thumbnail": "",
-          "link": ""
+          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/conferences/payload.md"
         }
       ]
     },
