@@ -53,7 +53,7 @@ Youll also need a stout battery to run all the additional onboard hardware separ
 Ground Control Station
 ======================
 
-The (free and open source) Mission Planner is required if youâ€™re going to be loading new versions of Rover onto the autopilot controller, and for first-time tuning and calibration. At current time, Mission Planner uses the Rover template to setup initial parameters to be as close as possible to the requirements for operating a boat.  It runs on a PC and can also be used for planning missions.  One detailed section of this tutorial will cover the initial setup of Mission Planner and the step-by-step modification of the Rover parameters to allow control of your jetyak.
+The (free and open source) Mission Planner is required if youre going to be loading new versions of Rover onto the autopilot controller, and for first-time tuning and calibration. At current time, Mission Planner uses the Rover template to setup initial parameters to be as close as possible to the requirements for operating a boat.  It runs on a PC and can also be used for planning missions.  One detailed section of this tutorial will cover the initial setup of Mission Planner and the step-by-step modification of the Rover parameters to allow control of your jetyak.
 
 At this point, you could test, build, program, and control a pseudo-autonomous Jetyak, which would be capable of following missions programed through mission planner software and relayed to the jetyak via waypoint navigation commands.  However, if seeking to explore the world of true autonomous operation, where you can program decision making for an onboard autonomous controller, then you will need the following â€œoptionalâ€ hardware.
 
@@ -68,12 +68,11 @@ A telemetry radio allows your jetyak to communicate with your ground station rem
 
 However, in our case, we want the capability to send and receive large swaths of sonar, weather, depth, and robot health data at long ranges during missions.  The COTS solution is for RF modems to be deployed and programmed into the overall design.  We have selected the [RF900+ modems from RFDesign in Australia](http://store.rfdesign.com.au/rfd900p-modem-bundle/) along with all supporting hardware listed in the equipment appendix, to accomplish this task.
 
-.. image:: ../images/modems.png
 
 Sensors
 ^^^^^^^
 
-`Sonar/Depth <https://www.maxbotix.com/Ultrasonic_Sensors/i2c_distance_sensors-2.htm>`_ are recommended to aid in underwater obstacle avoidance and mapping the environment.  After attempting to reverse engineer some proprietary transducers from Garmin and Humminbird, we chose NMEA 0183 CruzPro AT120-P sensor due to its relatively inexpensive cost and the simplicity of reading the desired data fields directly from its serial output, without proprietary drivers.
+[Sonar/Depth](https://www.maxbotix.com/Ultrasonic_Sensors/i2c_distance_sensors-2.htm) are recommended to aid in underwater obstacle avoidance and mapping the environment.  After attempting to reverse engineer some proprietary transducers from Garmin and Humminbird, we chose NMEA 0183 CruzPro AT120-P sensor due to its relatively inexpensive cost and the simplicity of reading the desired data fields directly from its serial output, without proprietary drivers.
 
 
 Anemometer, or wind sensor is useful in measuring instantaneous wind speed and direction on the vessel.  Information collected can be used to map the environmental wind patterns and predict nearby wind dynamics.  We chose the Sparkfun weather station, which is easily controlled through an Arduino Uno with a transceiver riser board to accommodate the RJ11 connections to the wind direction, wind speed, and rain gauge (unused in our implementation) sensors.  Precise wiring, soldering and programing instructions and code are included in the sensor portion of this tutorial.
