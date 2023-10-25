@@ -35,8 +35,7 @@
       "Collaborators" : [
         {
           "title": "Links to our Collaborators",
-          "thumbnail": "",
-          "link": ""
+          "link": "https://github.com/18r441m/afrl-data/blob/research/resources/jetyak/payload.md"
         }
       ]
     },
@@ -44,8 +43,7 @@
       "ReadingGroup" : [
         {
           "title": "Reading Group",
-          "thumbnail": "",
-          "link": ""
+          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/reading_group/payload.md"
         }
       ]
     },
@@ -53,7 +51,7 @@
       "Wiki" : [
         {
           "title": "Marine Robotics Wiki",
-          "thumbnail": "",
+
           "link": "https://afrl.cse.sc.edu/wiki/index.php/Main_Page"
         }
       ]
@@ -62,8 +60,7 @@
       "Jetyak" : [
         {
           "title": "Jetyak Documentation",
-          "thumbnail": "",
-          "link": ""
+          "link": "https://github.com/18r441m/afrl-data/blob/research/resources/jetyak/payload.md"
         }
       ]
     },
@@ -71,8 +68,7 @@
       "StereoRig" : [
         {
           "title": "Stereo Rig Documentation",
-          "thumbnail": "",
-          "link": ""
+          "link": "https://github.com/18r441m/afrl-data/blob/research/resources/stereo_rig/payload.md"
         }
       ]
     }  
