@@ -3,7 +3,6 @@
     "Data" : [
       {
         "title": "Datasets",
-        "thumbnail": "",
         "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/datasets/payload.md"
       }
     ]
@@ -12,7 +11,6 @@
     "Software" : [
         {
           "title": "Software",
-          "thumbnail": "",
           "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/software/payload.md"
         }
       ]
@@ -21,7 +19,6 @@
       "Media" : [
         {
           "title": "Media",
-          "thumbnail": "",
           "link": ""
         }
       ]
@@ -58,7 +55,7 @@
         {
           "title": "Marine Robotics Wiki",
           "thumbnail": "",
-          "link": ""
+          "link": "https://afrl.cse.sc.edu/wiki/index.php/Main_Page"
         }
       ]
     },
