@@ -10,6 +10,7 @@ A. Quattrini Li, A. Coskun, S. M. Doherty, S. Ghasemlou, A. S. Jagtap, M. Modass
 ## Vehicles and Data
 The packages were evaluated from datasets collected by different vehicles. Characteristic images from the different datasets look like:
 
+<br/>
 ![Husky outdoor image](https://github.com/18r441m/afrl-data/blob/research/research/vision_based_estimation/husky_outdoor.jpg.thumbnail.jpeg?raw=true)
 
 ## References

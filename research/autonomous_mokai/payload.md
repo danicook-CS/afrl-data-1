@@ -11,11 +11,13 @@ Mokai sometimes changes the electrical configuration of the ES-Kape. The two tha
 The only differences we need to worry about are in the pinouts of the connectors between the main section of the kayak and the engine section.
 
 Photo of engine-section-side connectors:
+
 ![engine section side connectors](https://github.com/18r441m/afrl-data/blob/research/research/autonomous_mokai/images/Amphenol7FM.png?raw=true)
 Pinouts of Connectors, Looking Head-On
 
 ## Summer 2015 Version
 ### Starboard: Sockets on Bulkhead
+
 ![starboard 2015](https://github.com/18r441m/afrl-data/blob/research/research/autonomous_mokai/images/starboard.png?raw=true)
 
 ### Port: Pins on Bulkhead
@@ -23,9 +25,11 @@ Pinouts of Connectors, Looking Head-On
 
 ## Spring 2016 Version
 ### Starboard: Sockets on Bulkhead
+
 ![starboard 2016](https://github.com/18r441m/afrl-data/blob/research/research/autonomous_mokai/images/starboard_2016.png?raw=true)
 
 ### Port: Pins on Bulkhead
+
 ![port 2016](https://github.com/18r441m/afrl-data/blob/research/research/autonomous_mokai/images/bulkhead_2016.png?raw=true)
 
 ## Core System
