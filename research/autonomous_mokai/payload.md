@@ -32,6 +32,8 @@ Pinouts of Connectors, Looking Head-On
 ### Switching
 The switching system has four inputs: the two 7-conductor cables from the joystick box and the throttle and steering PWM signals from the Pixhawk. The latter two are easily combined into a single cable, as in the example below. The system also has two outputs: the two cables that will connect to the engine section. The throttle and steering signals from the Pixhawk should be connected into the inputs of a DPDT switch with the throttle and steering signals from the joystick, as shown in the example below. The outputs from the switch should be connected to the output lines as needed by your ES-Kape's pinouts.
 
+
+
 ![switchbox](https://github.com/18r441m/afrl-data/blob/research/research/autonomous_mokai/images/SwitchBox2.2.png?raw=true)
 
 ### Power
