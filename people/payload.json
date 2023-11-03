@@ -1,11 +1,13 @@
 [
+  { "Faculty":
     {
       "name": "Ioannis Rekleitis",
       "role": "Faculty",
       "title": "Associate Professor",
       "headshot": "https://raw.githubusercontent.com/18r441m/afrl-data/main/people/images/Rekleitis.jpg",
       "link": "https://cse.sc.edu/~yiannisr/"
-    },
+    }
+  },
     {
       "name": "Md Modasshir",
       "role": "Grad",
