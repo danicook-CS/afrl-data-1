@@ -1,5 +1,5 @@
 [
-  { "Faculty":
+  { "Faculty": [
     {
       "name": "Ioannis Rekleitis",
       "role": "Faculty",
@@ -7,7 +7,9 @@
       "headshot": "https://raw.githubusercontent.com/18r441m/afrl-data/main/people/images/Rekleitis.jpg",
       "link": "https://cse.sc.edu/~yiannisr/"
     }
+  ]
   },
+  { "Graduate Students": [
     {
       "name": "Md Modasshir",
       "role": "Grad",
@@ -63,7 +65,10 @@
       "title": "Postdoc",
       "headshot": "",
       "link": "https://rlab.cs.dartmouth.edu/albertoq/"
-    },
+    }
+   ]
+  },
+  { "Alumni": [
     {
         "name": "Brennan Cain",
         "role": "Alumni",
@@ -238,7 +243,11 @@
         "title": "B.Sc. student",
         "headshot": "",
         "link": ""
-    },
+    }
+  ]
+},
+{
+  "Undergraduate Students" : [
     {
       "name": "Ross Vicario",
       "role": "Undergrad",
@@ -253,4 +262,6 @@
       "headshot": "",
       "link": ""
     } 
+  ]
+ }
 ]
