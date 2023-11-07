@@ -37,7 +37,7 @@
       "name": "Titon Barua",
       "role": "Grad",
       "title": "PhD Student",
-      "headshot": "https://www.titonbarua.com/img/titon_portrait.jpg",
+      "headshot": "https://raw.githubusercontent.com/18r441m/afrl-data/research/people/images/Titon.jpg",
       "link": "https://www.titonbarua.com/"
     }
    ]
@@ -46,7 +46,7 @@
     "Undergraduate Students" : [
       {
         "name": "Lily Lamb",
-        "headshot":"https://media.licdn.com/dms/image/C4E03AQGanFXPmKFI6A/profile-displayphoto-shrink_400_400/0/1628901087247?e=1701907200&v=beta&t=iF3QXSj8L-VwlXySdefqSsyDVjrvKz-5Tamnyr5BG3Q",
+        "headshot":"https://raw.githubusercontent.com/18r441m/afrl-data/research/people/images/Lily.jpg",
         "title": "Undergraduate Student",
         "link": "https://www.linkedin.com/in/lily-lamb-7525131a7/"
       },
@@ -58,7 +58,7 @@
       },
       {
         "name": "Danielle Cook",
-        "headshot":"https://media.licdn.com/dms/image/D4D03AQE-mCDgYA54sA/profile-displayphoto-shrink_400_400/0/1696364823526?e=1701907200&v=beta&t=dunEwrWwWlnWwcHRC6KdQf-5IYf3sTy078WZoKda0UA",
+        "headshot":"https://raw.githubusercontent.com/18r441m/afrl-data/research/people/images/Danielle.jpg",
         "title": "Undergraduate Student",
         "link": "https://www.linkedin.com/in/danielle-cook-062842294/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
       }
