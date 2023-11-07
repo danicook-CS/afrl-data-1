@@ -34,237 +34,212 @@
       "link": "https://ibrahimsalman.com/"
     },
     {
-      "name": "Marios Xanthidis",
-      "role": "Alumni",
-      "title": "Ph.D. student",
-      "headshot": "",
-      "link": "https://sites.google.com/view/mariosx"
-    },
-    {
-      "name": "Nare Karapetyan",
-      "role": "Alumni",
-      "title": "Ph.D. student",
-      "headshot": "https://raw.githubusercontent.com/18r441m/afrl-data/main/people/images/Karapetyan.jpeg",
-      "link": "https://sites.google.com/view/nkarapetyan"
-    },
-    {
-      "name": "Sharmin Rahman",
-      "role": "Alumni",
-      "title": "Ph.D. student",
-      "headshot": "",
-      "link": "https://sites.google.com/view/sharminrahman/"
-    },
-    {
-      "name": "Jason Moulton",
-      "role": "Alumni",
-      "title": "Ph.D. student",
-      "headshot": "",
-      "link": ""
-    },
-    {
-      "name": "Alberto Quattrini Li",
-      "role": "Alumni",
-      "title": "Postdoc",
-      "headshot": "",
-      "link": "https://rlab.cs.dartmouth.edu/albertoq/"
+      "name": "Titon Barua",
+      "role": "Grad",
+      "title": "PhD Student",
+      "headshot": "https://www.titonbarua.com/img/titon_portrait.jpg",
+      "link": "https://www.titonbarua.com/"
     }
    ]
   },
+  {
+    "Undergraduate Students" : [
+      {
+        "name": "Lily Lamb",
+        "headshot":"https://media.licdn.com/dms/image/C4E03AQGanFXPmKFI6A/profile-displayphoto-shrink_400_400/0/1628901087247?e=1701907200&v=beta&t=iF3QXSj8L-VwlXySdefqSsyDVjrvKz-5Tamnyr5BG3Q",
+        "title": "Undergraduate Student",
+        "link": "https://www.linkedin.com/in/lily-lamb-7525131a7/"
+      },
+      {
+        "name": "Tsbih Salman",
+        "headshot":null,
+        "title": "Undergraduate Student",
+        "link": "https://www.linkedin.com/in/tsbih-salman-6ab79b278/"
+      },
+      {
+        "name": "Danielle Cook",
+        "headshot":"https://media.licdn.com/dms/image/D4D03AQE-mCDgYA54sA/profile-displayphoto-shrink_400_400/0/1696364823526?e=1701907200&v=beta&t=dunEwrWwWlnWwcHRC6KdQf-5IYf3sTy078WZoKda0UA",
+        "title": "Undergraduate Student",
+        "link": "https://www.linkedin.com/in/danielle-cook-062842294/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+      }
+    ]
+   },
   { 
     "Alumni": [
-    {
-        "name": "Brennan Cain",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": "https://www.brennancain.com/"
-    },
-    {
-      "name": "Hunter Damron",
-      "role": "Alumni",
-      "title": "B.Sc. student",
-      "headshot": "https://raw.githubusercontent.com/18r441m/afrl-data/main/people/images/Damron.jpeg",
-      "link": "https://github.com/hdamron17"
-    },
-    {
-      "name": "Dalton Bickford",
-      "role": "Alumni",
-      "title": "B.Sc. student",
-      "headshot": "",
-      "link": ""
-    },
-    {
+      {
+        "name": "Marios Xanthidis",
+        "headshot":"https://www.sintef.no/contentassets/ae66bd6608b345da83732332926b74b5/marios.xanthidis-sintef.no.jpg",
+        "title": "Now working at...",
+        "link": "https://sites.google.com/view/mariosx"
+      },
+      {
+        "name": "Nare Karapetyan",
+        "headshot":"https://faculty.eng.umd.edu/sites/faculty.eng.umd.edu/files/profile_images/IMG_5883.JPG",
+        "title": "PhD",
+        "link": "https://sites.google.com/view/nkarapetyan"
+      },
+      {
         "name": "Chris McKinney",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
+        "headshot":"http://www.tachibanatech.com/chris/afrl-aboutme/photo.jpeg",
+        "title": "B.Sc. Student",
         "link": ""
-    },
-    {
+      },
+      {
+        "name": "Hunter Damron",
+        "headshot":"https://sc.edu/about/offices_and_divisions/fellowships_and_scholar_programs/images/callout_images/2021_top_scholars/damron_hunter.jpg",
+        "title": "Now working at...",
+        "link": ""
+      },
+      {
+        "name": "Alex Johnson",
+        "headshot":null,
+        "title": "Now working at...",
+        "link": ""
+      },
+      {
         "name": "David Schmitt",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
+        "headshot":null,
+        "title": "Now working at...",
         "link": ""
-    },
-    {
+      },
+      {
+        "name": "Sharmin Rahman",
+        "headshot":"https://afrl.cse.sc.edu/people/sharmin/photo.jpeg",
+        "title": "Research Scientist at Amazon",
+        "link": "https://sites.google.com/view/sharminrahman/"
+      },
+      {
+        "name": "Jason Moulton",
+        "headshot":null,
+        "title": "PhD",
+        "link": ""
+      },
+      {
+        "name": "Alberto Quattrini Li",
+        "headshot":"https://afrl.cse.sc.edu/people/alberto/photo.jpeg",
+        "title": "Now working at...",
+        "link": "https://rlab.cs.dartmouth.edu/albertoq/"
+      },
+      {
         "name": "Andrew DePriest",
-        "role": "Alumni",
-        "title": "M.Eng. student",
-        "headshot": "",
+        "headshot":null,
+        "title": "Now working at...",
         "link": ""
-    },
-    {
+      },
+      {
+        "name": "Brennan Cain",
+        "headshot":"https://media.licdn.com/dms/image/C4E03AQGAD-aNdTjuhw/profile-displayphoto-shrink_800_800/0/1589576676915?e=1701907200&v=beta&t=0Q7LGYk-atF67nPeIS_wzuN7JIOvF_fMqGxhNMhOc40",
+        "title": "Software Engineer with a passion for robotics",
+        "link": "https://www.brennancain.com/"
+      },
+      {
         "name": "George Sophocleus",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
+        "headshot":null,
+        "title": "",
         "link": ""
-    },
-    {
+      },
+      {
         "name": "Daniel Boydstun",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
+        "headshot":"https://media.licdn.com/dms/image/D5603AQHbCbsyH1wX0A/profile-displayphoto-shrink_400_400/0/1669430948048?e=1701907200&v=beta&t=n8jBc7uU2dv0yRZXaqqrjzC2FmA5BOb1Bsv-CCdz3Vo",
+        "title": "",
         "link": ""
-    },
-    {
+      },
+      {
         "name": "Matt Farich",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
+        "headshot":"https://media.licdn.com/dms/image/C4E03AQGGYw6_Yy05vw/profile-displayphoto-shrink_400_400/0/1516527665340?e=1701907200&v=beta&t=bq6zdhuYxwGhVTZ7NX6Xlke3udiCCNpbQzhDIUOHYRU",
+        "title": "Now working at...",
         "link": ""
-    },
-    {
+      },
+      {
         "name": "John McCarthy",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
+        "headshot":null,
+        "title": "Now working at...",
         "link": ""
-    },
-    {
-        "name": "John McCarthy",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
+      },
+      {
         "name": "Silas Rubinson",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
+        "headshot":"https://media.licdn.com/dms/image/C5103AQHnIZu3NhopQg/profile-displayphoto-shrink_400_400/0/1517007884606?e=1701907200&v=beta&t=V_TAmA-7bVeWBcNx_e5bxBlahnEYvItwt6er_9SIhGE",
+        "title": "Senior Software Engineer",
+        "link": "https://www.linkedin.com/in/sjsajj/"
+      },
+      {
         "name": "Akanksha Singh",
-        "role": "Alumni",
-        "title": "M.Sc. student",
-        "headshot": "",
+        "headshot":null,
+        "title": "Now working at...",
         "link": ""
-    },
-    {
+      },
+      {
         "name": "Apoorv Jagtap",
-        "role": "Alumni",
-        "title": "M.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
+        "headshot":null,
+        "title": "Now working at...",
+        "link": "https://scholar.google.com/citations?user=1H_SjuYAAAAJ&hl=en"
+      },
+      {
         "name": "Sean Doherty",
-        "role": "Alumni",
-        "title": "M.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
+        "headshot":"https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=1H_SjuYAAAAJ&citpid=2",
+        "title": "Now working at...",
+        "link": "https://scholar.google.com/citations?user=1H_SjuYAAAAJ&hl=en"
+      },
+      {
         "name": "Kelly Benson",
-        "role": "Alumni",
-        "title": "M.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
+        "headshot":null,
+        "title": "Now working at...",
+        "link": "https://scholar.google.com/citations?user=1H_SjuYAAAAJ&hl=en"
+      },
+      {
         "name": "Shannon Hood",
-        "role": "Alumni",
-        "title": "M.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
+        "headshot":"https://hoodsr.github.io/images/shannon-photo-1.jpg",
+        "title": "Now working at...",
+        "link": "https://hoodsr.github.io/"
+      },
+      {
         "name": "Nicholas Weidner",
-        "role": "Alumni",
-        "title": "M.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
+        "headshot":"https://media.licdn.com/dms/image/C4E03AQGe3xeDKojbeQ/profile-displayphoto-shrink_400_400/0/1516532483568?e=1701907200&v=beta&t=AIZxoZTHNT96AUfVef8f4iuopHp9xKCy3YI953wh8q0",
+        "title": "Now working at...",
+        "link": "https://weidnern.github.io/"
+      },
+      {
         "name": "Daniel Madison",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
+        "headshot":"https://media.licdn.com/dms/image/C4D03AQG-NIL6E83YkA/profile-displayphoto-shrink_400_400/0/1551113140128?e=1701907200&v=beta&t=fbdbNLY2v1IeF4cN9AmZzXx4vltosX6IlHPipyMeFxw",
+        "title": "Software Engineer",
+        "link": "https://www.linkedin.com/in/daniel-madison-28381b58/"
+      },
+      {
         "name": "Zack Smith",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
+        "headshot":null,
+        "title": "Now working at...",
         "link": ""
-    },
-    {
+      },
+      {
         "name": "Joshua Benton",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    },
-    {
+        "headshot":"https://media.licdn.com/dms/image/D4D03AQFAaNdpb5k92g/profile-displayphoto-shrink_400_400/0/1648684563351?e=1701907200&v=beta&t=0R6aQXkF3TqUn1DTXf5r7Bm-SeWopdE_iJYc_ip7O20",
+        "title": "Now working at...",
+        "link": "https://www.linkedin.com/in/joshua-benton-072514bb/"
+      },
+      {
         "name": "Patrick Hamod",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
+        "headshot":null,
+        "title": "Now working at...",
         "link": ""
-    },
-    {
+      },
+      {
         "name": "Andrew Rowles",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
+        "headshot":null,
+        "title": "Now working at...",
         "link": ""
-    },
-    {
+      },
+      {
         "name": "Dalton Bickford",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
+        "headshot":null,
+        "title": "Now working at...",
         "link": ""
-    },
-    {
+      },
+      {
         "name": "Sharone Bukhsbaum",
-        "role": "Alumni",
-        "title": "B.Sc. student",
-        "headshot": "",
-        "link": ""
-    }
-  ]
-},
-{
-  "Undergraduate Students" : [
-    {
-      "name": "Ross Vicario",
-      "role": "Undergrad",
-      "title": "B.Sc. student",
-      "headshot": "https://raw.githubusercontent.com/18r441m/afrl-data/main/people/images/ross.jpeg",
-      "link": ""
-    },
-    {
-      "name": "Muhammad Tukhtasunov",
-      "role": "Undergrad",
-      "title": "B.Sc. student",
-      "headshot": "",
-      "link": ""
-    } 
-  ]
- }
+        "headshot":"https://media.licdn.com/dms/image/C5603AQFXW_9Qsg69Sw/profile-displayphoto-shrink_400_400/0/1538427042930?e=1701907200&v=beta&t=CmOq6SCEIDfKnvAfDKqdpijCFfDlrWebiDoSSruFh3U",
+        "title": "Now working at...",
+        "link": "https://www.linkedin.com/in/sharon-bukhsbaum-641173149/"
+      }
+    ]
+  }
 ]
