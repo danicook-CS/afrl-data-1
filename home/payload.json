@@ -1,11 +1,7 @@
 [
     {
         "Home": [
-            {
-                "title": "Current Research",
-                "thumbnail" : "https://afrl.cse.sc.edu/afrl/research/standard/VEstComp/images/aqua_out.jpg.thumbnail.jpeg",
-                "link": "https://raw.githubusercontent.com/18r441m/afrl/main/client/src/pages/Research.js?token=GHSAT0AAAAAACG6SBD37WF4GFDGV3FYQ6UEZK34LBQ"
-            },
+
             {
                 "title":"Aqua Research",
                 "thumbnail" : "https://afrl.cse.sc.edu/afrl/research/marios/images/ship2.png",
