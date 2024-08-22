@@ -1,14 +1,57 @@
 [
-  "Underwater" : [
-    {
-      "title": "title of research",
-      "thumbnail": "link to image",
-      "link": "link to markdown"
-    },
-    {
-      "title": "title of research",
-      "thumbnail": "link to image",
-      "link": "link to markdown"
-    }
-  ]
+[
+  {
+    "Current":  [
+      {
+        "title": "Vision Based Estimation",
+        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/vision_based_estimation/payload.md"
+      },
+      {
+        "title": "Kinematics Hyper-Redundant Manipulators",
+        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/efficient_kinematics/payload.md"
+      }
+    ]
+  },
+  {
+    "Aqua" : [
+      {
+        "title": "Shipwreck Mapping",
+        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/shipwreck_mapping/payload.md"
+      },
+      {
+        "title": "Underwater Cave Mapping",
+        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/underwater_cave_mapping/payload.md"
+      },
+      {
+          "title": "Localizing AUVS to Sand Ripples",
+          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/localizing_auvs/payload.md"
+      }
+    ]
+  },
+  {
+    "Ground": [
+      {
+        "title": "Localization with Dynamic Obstacles",
+        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/localization_dynamic_obstacles/payload.md"
+      }
+    ]
+  },
+  {
+    "Aerial" : [
+      {
+        "title": "Birds Eye View",
+        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/birds_eye_view/payload.md"
+      }
+    ]
+  },
+  {
+    "Hardware" : 
+    [
+      {
+        "title": "Autonomous Surface Vehicles",
+        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/autonomous_mokai/payload.md"
+      }
+    ]
+  }
 ]
+   
