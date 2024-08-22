@@ -13,28 +13,21 @@
   },
   {
     "Graduate Students": [
-      {
-        "name": "Bharat Joshi",
-        "imageURL": "https://joshi-bharat.github.io/assets/img/profile.png",
-        "info": "PhD Candidate",
-        "website": "",
-        "linkedIn": "https://www.linkedin.com/in/bharat-joshi12/",
-        "googleScholar": "https://scholar.google.com/citations?user=TsGzYyoAAAAJ&hl=en"
-      },
-      {
-        "name": "Md Modasshir",
-        "imageURL": "https://media.licdn.com/dms/image/C4E03AQH-9NJzj3uM0w/profile-displayphoto-shrink_400_400/0/1581223842857?e=1701907200&v=beta&t=z5x5HzQ3UbRb3yYu68q8S30VEXT43mTVRMuNXRu-p44",
-        "info": "PhD Student",
-        "website": "",
-        "linkedIn": "https://www.linkedin.com/in/modasshir/",
-        "googleScholar": ""
-      },
+  
       {
         "name": "Ibrahim Salman",
         "imageURL": "",
         "info": "PhD Student",
         "website": "https://ibrahimsalman.com/",
         "linkedIn": "https://www.linkedin.com/in/ijsalman/",
+        "googleScholar": ""
+      },
+          {
+        "name": "Lily Lamb",
+        "imageURL": "https://media.licdn.com/dms/image/C4E03AQGanFXPmKFI6A/profile-displayphoto-shrink_400_400/0/1628901087247?e=1701907200&v=beta&t=iF3QXSj8L-VwlXySdefqSsyDVjrvKz-5Tamnyr5BG3Q",
+        "info": "PhD Student",
+        "website": null,
+        "linkedIn": "https://www.linkedin.com/in/lily-lamb-7525131a7/",
         "googleScholar": ""
       },
       {
@@ -49,20 +42,29 @@
   },
   {
     "Undergraduate Students": [
-      {
-        "name": "Lily Lamb",
-        "imageURL": "https://media.licdn.com/dms/image/C4E03AQGanFXPmKFI6A/profile-displayphoto-shrink_400_400/0/1628901087247?e=1701907200&v=beta&t=iF3QXSj8L-VwlXySdefqSsyDVjrvKz-5Tamnyr5BG3Q",
-        "info": "Undergraduate Student",
-        "website": null,
-        "linkedIn": "https://www.linkedin.com/in/lily-lamb-7525131a7/",
-        "googleScholar": ""
-      },
+
       {
         "name": "Tsbih Salman",
         "imageURL": null,
         "info": "Undergraduate Student",
         "website": null,
         "linkedIn": "https://www.linkedin.com/in/tsbih-salman-6ab79b278/",
+        "googleScholar": ""
+      },
+         {
+        "name": "Hammam Salman",
+        "imageURL": null,
+        "info": "Undergraduate Student",
+        "website": null,
+        "linkedIn": "https://www.linkedin.com/in/hammam-salman-0433752b0/",
+        "googleScholar": ""
+      },
+             {
+        "name": "Tiffany Yu",
+        "imageURL": null,
+        "info": "Undergraduate Student",
+        "website": null,
+        "linkedIn": "no linkedin",
         "googleScholar": ""
       },
       {
@@ -80,11 +82,28 @@
       {
         "name": "Marios Xanthidis",
         "imageURL": "https://www.sintef.no/contentassets/ae66bd6608b345da83732332926b74b5/marios.xanthidis-sintef.no.jpg",
-        "info": "Now working at...",
+        "info": "PhD",
         "website": "https://sites.google.com/view/mariosx",
         "linkedIn": "https://www.linkedin.com/in/marios-xanthidis-5408916a/",
         "googleScholar": ""
       },
+          {
+        "name": "Md Modasshir",
+        "imageURL": "https://media.licdn.com/dms/image/C4E03AQH-9NJzj3uM0w/profile-displayphoto-shrink_400_400/0/1581223842857?e=1701907200&v=beta&t=z5x5HzQ3UbRb3yYu68q8S30VEXT43mTVRMuNXRu-p44",
+        "info": "PhD",
+        "website": "",
+        "linkedIn": "https://www.linkedin.com/in/modasshir/",
+        "googleScholar": ""
+      },
+        {
+        "name": "Bharat Joshi",
+        "imageURL": "https://joshi-bharat.github.io/assets/img/profile.png",
+        "info": "PhD",
+        "website": "",
+        "linkedIn": "https://www.linkedin.com/in/bharat-joshi12/",
+        "googleScholar": "https://scholar.google.com/citations?user=TsGzYyoAAAAJ&hl=en"
+      },
+
       {
         "name": "Nare Karapetyan",
         "imageURL": "https://faculty.eng.umd.edu/sites/faculty.eng.umd.edu/files/profile_images/IMG_5883.JPG",
